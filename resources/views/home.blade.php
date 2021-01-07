@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    <a href="/pyetsori/create" class="btn btn-dark">Krijoni pyetsorin.</a>
+                    <a href="/pyetsori/create" class="btn btn-dark">Krijoni pyetsorin tuaj.</a>
                 </div>
             </div>
 
